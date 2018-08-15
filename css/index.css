@@ -1,0 +1,20 @@
+#inbox{width: 100%;min-width: 980px;}
+#top{width: 100%;background:#FF4500;}
+#top .container{height: 88px;}
+/*top-top*/
+#top .top_t{width: 100%;height: 25px;}
+.top_t a{color:#FFFFCC;border-bottom:1px solid #FFFFCC;/*margin-left:5px;*/}
+.top_t span{color:#ff0;margin-left:5px;}
+.top_t i{color:#FFFFCC;}
+.top_t .top_t_l p{color:#FFFFCC;font-size: 14px;height: 25px;line-height: 25px;}
+.top_t .top_t_l p a{margin-left: 5px;}
+.top_t .top_t_r ul li{float:left;font-size: 14px;margin-left:15px;height: 25px;line-height:25px;}
+/*top_center*/
+#top.top_c{width: 100%;}
+.top_c .top_c_l h2{background:url(../img/logo.png)no-repeat;width: 270px;height: 50px;}
+.top_c_c{width: 440px;height: 50px;margin-left: 80px;line-height: 50px;}
+.top_c_c input{height: 35px;}
+.top_c_c #Search{width: 355px;/*height: 30px;*/background:#CFCFCF;border:1px solid #000;}
+.top_c_c #Search::placeholder{line-height: 30px;}
+.top_c_c #btn-Search{width: 80px;/*height: 32px;*/line-height: 32px;background:#573C33;color:#fff;margin-top:2px;}
+.top_c_r h2{font-size: 20px;color:#fff;height: 50px;line-height: 50px;}
